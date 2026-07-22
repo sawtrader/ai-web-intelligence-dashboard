@@ -40,7 +40,7 @@
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/SuryaAutomation-dev/ai-web-intelligence-dashboard.git
+git clone https://github.com/sawtrader/ai-web-intelligence-dashboard.git
 cd ai-web-intelligence-dashboard
 ```
 
