@@ -2,6 +2,7 @@
 
 > Manually collecting and analyzing market data across hundreds of product pages takes hours — and sending that data to a cloud API means recurring costs plus privacy risk.
 > This dashboard scrapes product data automatically, then analyzes it with an LLM that runs 100% locally on your own GPU, at zero API cost.
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red)
 ![Ollama](https://img.shields.io/badge/Ollama-LLaMA3.1-green)
