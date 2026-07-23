@@ -10,6 +10,8 @@
 
 ---
 
+📸 Demo
+
 <img width="1912" height="936" alt="AI Web Intelligence Dashboard" src="https://github.com/user-attachments/assets/4be8105a-df74-4016-bc3a-064fd24a018d" />
 
 
