@@ -1,14 +1,16 @@
 # 🤖 AI Web Intelligence Dashboard
 
-> Automated web scraper with local LLM analysis — extracts, categorizes, 
-> and visualizes book market data in real-time with zero cloud API costs.
-
+> Manually collecting and analyzing market data across hundreds of product pages takes hours — and sending that data to a cloud API means recurring costs plus privacy risk.
+> This dashboard scrapes product data automatically, then analyzes it with an LLM that runs 100% locally on your own GPU, at zero API cost.
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red)
 ![Ollama](https://img.shields.io/badge/Ollama-LLaMA3.1-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
+
+<img width="1912" height="936" alt="AI Web Intelligence Dashboard" src="https://github.com/user-attachments/assets/4be8105a-df74-4016-bc3a-064fd24a018d" />
+
 
 ## ✨ Features
 
@@ -86,10 +88,15 @@ Open your browser at `http://localhost:8501`
 
 ## 📋 Project Structure
 ai-web-intelligence-dashboard/
+
 ├── scraper.py
+
 ├── analyzer.py
+
 ├── app.py
+
 └── README.md
+
 ---
 
 ## 📄 License
