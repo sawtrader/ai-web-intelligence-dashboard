@@ -86,9 +86,9 @@ Open your browser at `http://localhost:8501`
 
 ## 📋 Project Structure
 ai-web-intelligence-dashboard/
-├── scraper.py      # Web scraping engine (BeautifulSoup + Requests)
-├── analyzer.py     # Local AI analysis (Ollama integration)
-├── app.py          # Streamlit dashboard UI
+├── scraper.py
+├── analyzer.py
+├── app.py
 └── README.md
 ---
 
